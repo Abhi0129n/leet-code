@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Abhi0129n/leet-code/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Abhi0129n/leet-code/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Abhi0129n/leet-code/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Abhi0129n/leet-code/tree/master/0268-missing-number) |
@@ -26,6 +27,7 @@
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Abhi0129n/leet-code/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/Abhi0129n/leet-code/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
