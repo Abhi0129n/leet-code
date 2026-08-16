@@ -8,6 +8,7 @@
 | [0066-plus-one](https://github.com/Abhi0129n/leet-code/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Abhi0129n/leet-code/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Abhi0129n/leet-code/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhi0129n/leet-code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/Abhi0129n/leet-code/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Abhi0129n/leet-code/tree/master/0268-missing-number) |
 ## Two Pointers
@@ -51,4 +52,5 @@
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/Abhi0129n/leet-code/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhi0129n/leet-code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
