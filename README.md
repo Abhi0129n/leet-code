@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Abhi0129n/leet-code/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/Abhi0129n/leet-code/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Abhi0129n/leet-code/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Abhi0129n/leet-code/tree/master/0118-pascals-triangle) |
@@ -27,6 +28,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Abhi0129n/leet-code/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Abhi0129n/leet-code/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0169-majority-element](https://github.com/Abhi0129n/leet-code/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Abhi0129n/leet-code/tree/master/0217-contains-duplicate) |
