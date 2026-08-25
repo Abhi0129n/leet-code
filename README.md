@@ -14,10 +14,12 @@
 | [0217-contains-duplicate](https://github.com/Abhi0129n/leet-code/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Abhi0129n/leet-code/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Abhi0129n/leet-code/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/Abhi0129n/leet-code/tree/master/0283-move-zeroes) |
 ## Two Pointers
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Abhi0129n/leet-code/tree/master/0088-merge-sorted-array) |
+| [0283-move-zeroes](https://github.com/Abhi0129n/leet-code/tree/master/0283-move-zeroes) |
 ## Sorting
 |  |
 | ------- |
