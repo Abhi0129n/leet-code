@@ -15,6 +15,7 @@
 | [0238-product-of-array-except-self](https://github.com/Abhi0129n/leet-code/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Abhi0129n/leet-code/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Abhi0129n/leet-code/tree/master/0283-move-zeroes) |
+| [0643-maximum-average-subarray-i](https://github.com/Abhi0129n/leet-code/tree/master/0643-maximum-average-subarray-i) |
 | [0881-boats-to-save-people](https://github.com/Abhi0129n/leet-code/tree/master/0881-boats-to-save-people) |
 ## Two Pointers
 |  |
@@ -92,4 +93,8 @@
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/Abhi0129n/leet-code/tree/master/0881-boats-to-save-people) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Abhi0129n/leet-code/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
