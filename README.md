@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Abhi0129n/leet-code/tree/master/0001-two-sum) |
+| [0042-trapping-rain-water](https://github.com/Abhi0129n/leet-code/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/Abhi0129n/leet-code/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Abhi0129n/leet-code/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Abhi0129n/leet-code/tree/master/0118-pascals-triangle) |
@@ -20,6 +21,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Abhi0129n/leet-code/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/Abhi0129n/leet-code/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Abhi0129n/leet-code/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/Abhi0129n/leet-code/tree/master/0283-move-zeroes) |
@@ -67,6 +69,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Abhi0129n/leet-code/tree/master/0042-trapping-rain-water) |
 | [0118-pascals-triangle](https://github.com/Abhi0129n/leet-code/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhi0129n/leet-code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Divide and Conquer
@@ -97,4 +100,12 @@
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Abhi0129n/leet-code/tree/master/0643-maximum-average-subarray-i) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Abhi0129n/leet-code/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Abhi0129n/leet-code/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
