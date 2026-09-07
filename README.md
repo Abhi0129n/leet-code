@@ -19,6 +19,7 @@
 | [0283-move-zeroes](https://github.com/Abhi0129n/leet-code/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/Abhi0129n/leet-code/tree/master/0643-maximum-average-subarray-i) |
 | [0881-boats-to-save-people](https://github.com/Abhi0129n/leet-code/tree/master/0881-boats-to-save-people) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Abhi0129n/leet-code/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Two Pointers
 |  |
 | ------- |
@@ -45,6 +46,7 @@
 | [0169-majority-element](https://github.com/Abhi0129n/leet-code/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Abhi0129n/leet-code/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Abhi0129n/leet-code/tree/master/0268-missing-number) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Abhi0129n/leet-code/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Math
 |  |
 | ------- |
@@ -61,6 +63,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Abhi0129n/leet-code/tree/master/0268-missing-number) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Abhi0129n/leet-code/tree/master/1684-count-the-number-of-consistent-strings) |
 ## String
 |  |
 | ------- |
@@ -68,6 +71,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Abhi0129n/leet-code/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0125-valid-palindrome](https://github.com/Abhi0129n/leet-code/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Abhi0129n/leet-code/tree/master/0344-reverse-string) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Abhi0129n/leet-code/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Backtracking
 |  |
 | ------- |
@@ -86,6 +90,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Abhi0129n/leet-code/tree/master/0169-majority-element) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Abhi0129n/leet-code/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
