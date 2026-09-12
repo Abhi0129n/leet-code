@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Abhi0129n/leet-code/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/Abhi0129n/leet-code/tree/master/0014-longest-common-prefix) |
 | [0042-trapping-rain-water](https://github.com/Abhi0129n/leet-code/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/Abhi0129n/leet-code/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Abhi0129n/leet-code/tree/master/0088-merge-sorted-array) |
@@ -68,6 +69,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Abhi0129n/leet-code/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/Abhi0129n/leet-code/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Abhi0129n/leet-code/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0125-valid-palindrome](https://github.com/Abhi0129n/leet-code/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Abhi0129n/leet-code/tree/master/0344-reverse-string) |
@@ -121,4 +123,8 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Abhi0129n/leet-code/tree/master/0042-trapping-rain-water) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Abhi0129n/leet-code/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
