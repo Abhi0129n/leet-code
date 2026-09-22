@@ -27,6 +27,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Abhi0129n/leet-code/tree/master/0042-trapping-rain-water) |
+| [0061-rotate-list](https://github.com/Abhi0129n/leet-code/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/Abhi0129n/leet-code/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Abhi0129n/leet-code/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/Abhi0129n/leet-code/tree/master/0283-move-zeroes) |
@@ -137,4 +138,8 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Abhi0129n/leet-code/tree/master/0073-set-matrix-zeroes) |
+## Linked List
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/Abhi0129n/leet-code/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
