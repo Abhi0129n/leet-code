@@ -20,6 +20,7 @@
 | [0238-product-of-array-except-self](https://github.com/Abhi0129n/leet-code/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Abhi0129n/leet-code/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Abhi0129n/leet-code/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Abhi0129n/leet-code/tree/master/0349-intersection-of-two-arrays) |
 | [0643-maximum-average-subarray-i](https://github.com/Abhi0129n/leet-code/tree/master/0643-maximum-average-subarray-i) |
 | [0881-boats-to-save-people](https://github.com/Abhi0129n/leet-code/tree/master/0881-boats-to-save-people) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Abhi0129n/leet-code/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -32,6 +33,7 @@
 | [0125-valid-palindrome](https://github.com/Abhi0129n/leet-code/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/Abhi0129n/leet-code/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Abhi0129n/leet-code/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/Abhi0129n/leet-code/tree/master/0349-intersection-of-two-arrays) |
 | [0881-boats-to-save-people](https://github.com/Abhi0129n/leet-code/tree/master/0881-boats-to-save-people) |
 ## Sorting
 |  |
@@ -40,6 +42,7 @@
 | [0169-majority-element](https://github.com/Abhi0129n/leet-code/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Abhi0129n/leet-code/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Abhi0129n/leet-code/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Abhi0129n/leet-code/tree/master/0349-intersection-of-two-arrays) |
 | [0881-boats-to-save-people](https://github.com/Abhi0129n/leet-code/tree/master/0881-boats-to-save-people) |
 ## Hash Table
 |  |
@@ -51,6 +54,7 @@
 | [0169-majority-element](https://github.com/Abhi0129n/leet-code/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Abhi0129n/leet-code/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Abhi0129n/leet-code/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Abhi0129n/leet-code/tree/master/0349-intersection-of-two-arrays) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Abhi0129n/leet-code/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Math
 |  |
@@ -65,6 +69,7 @@
 | [0035-search-insert-position](https://github.com/Abhi0129n/leet-code/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/Abhi0129n/leet-code/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Abhi0129n/leet-code/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Abhi0129n/leet-code/tree/master/0349-intersection-of-two-arrays) |
 ## Bit Manipulation
 |  |
 | ------- |
