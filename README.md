@@ -17,6 +17,7 @@
 | [0169-majority-element](https://github.com/Abhi0129n/leet-code/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Abhi0129n/leet-code/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Abhi0129n/leet-code/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Abhi0129n/leet-code/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Abhi0129n/leet-code/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Abhi0129n/leet-code/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Abhi0129n/leet-code/tree/master/0283-move-zeroes) |
@@ -53,6 +54,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Abhi0129n/leet-code/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Abhi0129n/leet-code/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Abhi0129n/leet-code/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Abhi0129n/leet-code/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Abhi0129n/leet-code/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Abhi0129n/leet-code/tree/master/0349-intersection-of-two-arrays) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Abhi0129n/leet-code/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -126,6 +128,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Abhi0129n/leet-code/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/Abhi0129n/leet-code/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/Abhi0129n/leet-code/tree/master/0643-maximum-average-subarray-i) |
 ## Stack
 |  |
