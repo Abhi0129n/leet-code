@@ -32,6 +32,7 @@
 | [0061-rotate-list](https://github.com/Abhi0129n/leet-code/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/Abhi0129n/leet-code/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Abhi0129n/leet-code/tree/master/0125-valid-palindrome) |
+| [0202-happy-number](https://github.com/Abhi0129n/leet-code/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Abhi0129n/leet-code/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Abhi0129n/leet-code/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Abhi0129n/leet-code/tree/master/0349-intersection-of-two-arrays) |
@@ -54,6 +55,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Abhi0129n/leet-code/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0073-set-matrix-zeroes](https://github.com/Abhi0129n/leet-code/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Abhi0129n/leet-code/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/Abhi0129n/leet-code/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Abhi0129n/leet-code/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Abhi0129n/leet-code/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Abhi0129n/leet-code/tree/master/0268-missing-number) |
@@ -66,6 +68,7 @@
 | [0013-roman-to-integer](https://github.com/Abhi0129n/leet-code/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Abhi0129n/leet-code/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Abhi0129n/leet-code/tree/master/0067-add-binary) |
+| [0202-happy-number](https://github.com/Abhi0129n/leet-code/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Abhi0129n/leet-code/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -160,4 +163,8 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Abhi0129n/leet-code/tree/master/0067-add-binary) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Abhi0129n/leet-code/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
