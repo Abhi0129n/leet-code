@@ -27,6 +27,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/Abhi0129n/leet-code/tree/master/0643-maximum-average-subarray-i) |
 | [0881-boats-to-save-people](https://github.com/Abhi0129n/leet-code/tree/master/0881-boats-to-save-people) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Abhi0129n/leet-code/tree/master/1684-count-the-number-of-consistent-strings) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Abhi0129n/leet-code/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Two Pointers
 |  |
 | ------- |
@@ -66,6 +67,7 @@
 | [0268-missing-number](https://github.com/Abhi0129n/leet-code/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Abhi0129n/leet-code/tree/master/0349-intersection-of-two-arrays) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Abhi0129n/leet-code/tree/master/1684-count-the-number-of-consistent-strings) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Abhi0129n/leet-code/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Math
 |  |
 | ------- |
@@ -121,6 +123,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/Abhi0129n/leet-code/tree/master/0169-majority-element) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Abhi0129n/leet-code/tree/master/1684-count-the-number-of-consistent-strings) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Abhi0129n/leet-code/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
