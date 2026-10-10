@@ -16,6 +16,7 @@
 | [0118-pascals-triangle](https://github.com/Abhi0129n/leet-code/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhi0129n/leet-code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Abhi0129n/leet-code/tree/master/0128-longest-consecutive-sequence) |
+| [0136-single-number](https://github.com/Abhi0129n/leet-code/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Abhi0129n/leet-code/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Abhi0129n/leet-code/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Abhi0129n/leet-code/tree/master/0217-contains-duplicate) |
@@ -88,6 +89,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Abhi0129n/leet-code/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/Abhi0129n/leet-code/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Abhi0129n/leet-code/tree/master/0268-missing-number) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Abhi0129n/leet-code/tree/master/1684-count-the-number-of-consistent-strings) |
 ## String
