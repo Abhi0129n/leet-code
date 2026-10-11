@@ -26,6 +26,7 @@
 | [0283-move-zeroes](https://github.com/Abhi0129n/leet-code/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Abhi0129n/leet-code/tree/master/0349-intersection-of-two-arrays) |
 | [0643-maximum-average-subarray-i](https://github.com/Abhi0129n/leet-code/tree/master/0643-maximum-average-subarray-i) |
+| [0705-design-hashset](https://github.com/Abhi0129n/leet-code/tree/master/0705-design-hashset) |
 | [0881-boats-to-save-people](https://github.com/Abhi0129n/leet-code/tree/master/0881-boats-to-save-people) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Abhi0129n/leet-code/tree/master/1684-count-the-number-of-consistent-strings) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Abhi0129n/leet-code/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -67,6 +68,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Abhi0129n/leet-code/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Abhi0129n/leet-code/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Abhi0129n/leet-code/tree/master/0349-intersection-of-two-arrays) |
+| [0705-design-hashset](https://github.com/Abhi0129n/leet-code/tree/master/0705-design-hashset) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Abhi0129n/leet-code/tree/master/1684-count-the-number-of-consistent-strings) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Abhi0129n/leet-code/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Math
@@ -170,6 +172,7 @@
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/Abhi0129n/leet-code/tree/master/0061-rotate-list) |
+| [0705-design-hashset](https://github.com/Abhi0129n/leet-code/tree/master/0705-design-hashset) |
 ## Simulation
 |  |
 | ------- |
@@ -182,4 +185,12 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Abhi0129n/leet-code/tree/master/0128-longest-consecutive-sequence) |
+## Design
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/Abhi0129n/leet-code/tree/master/0705-design-hashset) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/Abhi0129n/leet-code/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
