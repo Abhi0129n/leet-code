@@ -70,6 +70,7 @@
 | [0242-valid-anagram](https://github.com/Abhi0129n/leet-code/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Abhi0129n/leet-code/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Abhi0129n/leet-code/tree/master/0349-intersection-of-two-arrays) |
+| [0383-ransom-note](https://github.com/Abhi0129n/leet-code/tree/master/0383-ransom-note) |
 | [0705-design-hashset](https://github.com/Abhi0129n/leet-code/tree/master/0705-design-hashset) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Abhi0129n/leet-code/tree/master/1684-count-the-number-of-consistent-strings) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Abhi0129n/leet-code/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -109,6 +110,7 @@
 | [0125-valid-palindrome](https://github.com/Abhi0129n/leet-code/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Abhi0129n/leet-code/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Abhi0129n/leet-code/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/Abhi0129n/leet-code/tree/master/0383-ransom-note) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Abhi0129n/leet-code/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Backtracking
 |  |
@@ -129,6 +131,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Abhi0129n/leet-code/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/Abhi0129n/leet-code/tree/master/0383-ransom-note) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Abhi0129n/leet-code/tree/master/1684-count-the-number-of-consistent-strings) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Abhi0129n/leet-code/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Boyer–Moore Majority Vote Algorithm
