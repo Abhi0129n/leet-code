@@ -30,6 +30,7 @@
 | [0881-boats-to-save-people](https://github.com/Abhi0129n/leet-code/tree/master/0881-boats-to-save-people) |
 | [1480-running-sum-of-1d-array](https://github.com/Abhi0129n/leet-code/tree/master/1480-running-sum-of-1d-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Abhi0129n/leet-code/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1929-concatenation-of-array](https://github.com/Abhi0129n/leet-code/tree/master/1929-concatenation-of-array) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Abhi0129n/leet-code/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Two Pointers
 |  |
@@ -185,6 +186,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Abhi0129n/leet-code/tree/master/0067-add-binary) |
+| [1929-concatenation-of-array](https://github.com/Abhi0129n/leet-code/tree/master/1929-concatenation-of-array) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
