@@ -28,6 +28,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/Abhi0129n/leet-code/tree/master/0643-maximum-average-subarray-i) |
 | [0705-design-hashset](https://github.com/Abhi0129n/leet-code/tree/master/0705-design-hashset) |
 | [0881-boats-to-save-people](https://github.com/Abhi0129n/leet-code/tree/master/0881-boats-to-save-people) |
+| [1480-running-sum-of-1d-array](https://github.com/Abhi0129n/leet-code/tree/master/1480-running-sum-of-1d-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Abhi0129n/leet-code/tree/master/1684-count-the-number-of-consistent-strings) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Abhi0129n/leet-code/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Two Pointers
@@ -143,6 +144,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Abhi0129n/leet-code/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Abhi0129n/leet-code/tree/master/0238-product-of-array-except-self) |
+| [1480-running-sum-of-1d-array](https://github.com/Abhi0129n/leet-code/tree/master/1480-running-sum-of-1d-array) |
 ## Greedy
 |  |
 | ------- |
