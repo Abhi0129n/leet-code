@@ -28,6 +28,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/Abhi0129n/leet-code/tree/master/0643-maximum-average-subarray-i) |
 | [0705-design-hashset](https://github.com/Abhi0129n/leet-code/tree/master/0705-design-hashset) |
 | [0881-boats-to-save-people](https://github.com/Abhi0129n/leet-code/tree/master/0881-boats-to-save-people) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Abhi0129n/leet-code/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/Abhi0129n/leet-code/tree/master/1480-running-sum-of-1d-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Abhi0129n/leet-code/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1929-concatenation-of-array](https://github.com/Abhi0129n/leet-code/tree/master/1929-concatenation-of-array) |
@@ -85,6 +86,7 @@
 | [0067-add-binary](https://github.com/Abhi0129n/leet-code/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/Abhi0129n/leet-code/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Abhi0129n/leet-code/tree/master/0268-missing-number) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Abhi0129n/leet-code/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Binary Search
 |  |
 | ------- |
