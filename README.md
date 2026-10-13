@@ -33,6 +33,7 @@
 | [1684-count-the-number-of-consistent-strings](https://github.com/Abhi0129n/leet-code/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1929-concatenation-of-array](https://github.com/Abhi0129n/leet-code/tree/master/1929-concatenation-of-array) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Abhi0129n/leet-code/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Abhi0129n/leet-code/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Two Pointers
 |  |
 | ------- |
@@ -56,6 +57,7 @@
 | [0268-missing-number](https://github.com/Abhi0129n/leet-code/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Abhi0129n/leet-code/tree/master/0349-intersection-of-two-arrays) |
 | [0881-boats-to-save-people](https://github.com/Abhi0129n/leet-code/tree/master/0881-boats-to-save-people) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Abhi0129n/leet-code/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Hash Table
 |  |
 | ------- |
@@ -152,6 +154,7 @@
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/Abhi0129n/leet-code/tree/master/0881-boats-to-save-people) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Abhi0129n/leet-code/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Timsort
 |  |
 | ------- |
